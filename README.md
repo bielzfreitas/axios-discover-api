@@ -11,6 +11,7 @@ Missão Especializar
 Trabalhando com o Axios (parecido com o projeto de Fetch)
 
 Foi usada a API node-api-discover-main feita pela Jakeliny (https://github.com/jakeliny)
+
 - Buscar no Temrinal
 - Fazer o "npm i"
 - Após, digitar "npm start"
